@@ -46,7 +46,11 @@ This keymap is for the `cantor` keyboard
 
 ## 7) Put keyboard in BOOT mode
 
-For this keymap: RAISE + esc
+Press and hold BOOT
+
+Press NRST
+
+Release BOOT
 
 ## 8) Flash the keyboard
 
