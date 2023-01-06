@@ -8,6 +8,8 @@ For Mac, you will need Homebrew:
 brew install qmk/qmk/qmk
 ```
 
+If this fails, see [this Reddit post](https://www.reddit.com/r/olkb/comments/nh2fk9/guide_installing_qmk_on_m1_macbook/)
+
 For Linux distros, you will need Python/pip:
 
 ```
